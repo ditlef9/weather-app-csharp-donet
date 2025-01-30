@@ -1,4 +1,12 @@
-.project
-.settings
-salesforce.schema
-Referenced Packages
+# Project files
+
+
+# Build results
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
